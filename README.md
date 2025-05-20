@@ -2,11 +2,11 @@
 # 👋 Hi, I’m Abdulelah AlQahtani
 
 
-- 🔍 **Reverse Engineering** enthusiast: IDA Pro, Ghidra, x64dbg
-- 📱 **App Developer**: Python, C++, C#, Flutter
-- 💻 **Full‑Stack Programmer**: JavaScript, Node.js, React
-- 🛡️ **Certified Cybersecurity Professional**: CEH, CISSP, CompTIA Security+
-- 🏆 Passionate about solving complex problems and sharing knowledge
+-🔍 **Reverse Engineering** enthusiast: IDA Pro, Ghidra, x64dbg
+-📱 **App Developer**: Python, C++, C#, Flutter
+-💻 **Full‑Stack Programmer**: JavaScript, Node.js, React
+-🛡️ **Certified Cybersecurity Professional**: CEH, CISSP, CompTIA Security+
+-🏆 Passionate about solving complex problems and sharing knowledge
 
 ---
 
